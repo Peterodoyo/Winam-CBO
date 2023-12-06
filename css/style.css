@@ -354,8 +354,8 @@ a:focus {
 
 .carousel .carousel-item {
     position: relative;
-    width: 700%;
-    min-height: 200px;
+    width: 100%;
+    min-height: 300px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -2282,8 +2282,8 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
 
 .carousel .carousel-item {
     position: relative;
-    width: 700%;
-    min-height: 200px;
+    width: 100%;
+    min-height: 300px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -3532,8 +3532,8 @@ a:focus {
 
 .carousel .carousel-item {
     position: relative;
-    width: 70%;
-    min-height: 200px;
+    width: 100%;
+    min-height: 300px;
     display: flex;
     align-items: center;
     justify-content: center;
