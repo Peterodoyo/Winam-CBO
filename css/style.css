@@ -262,8 +262,8 @@ a:focus {
 }
 
 .navbar .navbar-brand img {
-    max-width: 70%;
-    max-height: 30px;
+    max-width: 50%;
+    max-height: 20px;
 }
 
 .navbar-dark .navbar-nav .nav-link,
