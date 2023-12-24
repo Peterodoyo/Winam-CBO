@@ -3484,12 +3484,12 @@ a:focus {
     
     .navbar.nav-sticky {
         padding: 10px 60px;
-        background: #31e9bb !important;
+        background: #739597 !important;
         border-bottom: none;
     }
     
     .page .navbar {
-        background: #31e9bb !important;
+         background: #31e9bb !important;
     }
     
     .navbar a.nav-link {
