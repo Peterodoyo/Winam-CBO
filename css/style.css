@@ -3513,7 +3513,18 @@ a:focus {
         box-shadow: none;
     }
 }
+@media only screen and (max-width: 768px) {
+  .navbar {
+    /* Adjust your styles for tablets and smaller screens here */
+  }
+}
 
+/* Responsive styles for phones and smaller screens */
+@media only screen and (max-width: 480px) {
+  .navbar {
+    /* Adjust your styles for phones and smaller screens here */
+  }
+}
 
 /*******************************/
 /********** Hero CSS ***********/
